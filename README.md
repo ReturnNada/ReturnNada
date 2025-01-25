@@ -1,6 +1,6 @@
 # About Me:
 
-Probably Tinkering with electronics
+Probably tinkering with electronics
 
 # 💻 Tech Stack:
 
